@@ -1,0 +1,66 @@
+html {
+    height: 100%;
+  }
+  
+  body {
+    margin: 0;
+    height: 100%;
+    font-family: 'Rockwell';
+    background: lemonchiffon;
+  }
+  
+  a {
+    color: black;
+  }
+  
+  header {
+    padding: 10px;
+    font-size: larger;
+    background: lightseagreen;
+    color: white;
+    text-align: center;
+  }
+  
+  nav {
+    background-color: #888;
+  }
+  
+  nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  nav ul li {
+    display: inline-block;
+    margin: 20px;
+    font-size: 24px;
+  }
+  
+  section {
+    width: 95%;
+    margin: 0 auto;
+    padding: 5px;
+    min-height: 800px;
+  }
+  
+  section img {
+    display: block;
+    margin: 20px auto;
+    width: 60%;
+  }
+
+  h2 {
+    color: lightseagreen;
+  }
+
+  p {
+    color: black;
+  }
+  
+  footer {
+    clear: left;
+    padding: 10px;
+    background: white;
+    text-align: center;
+  }
